@@ -1,0 +1,2 @@
+rokymiel@MacBook-Pro-Mihail-2 hotel % ./a.out 3 1 0
+Hotel opened at 12:00

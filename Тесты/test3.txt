@@ -1,0 +1,62 @@
+rokymiel@MacBook-Pro-Mihail-2 hotel % ./a.out 1 3 20
+Hotel opened at 12:00
+Client 1 went to the hotel at 12:00
+Client 1 booked a room at 12:00
+Client 2 went to the hotel at 15:00
+Client 2 booked a room at 15:00
+Client 3 went to the hotel at 18:00
+Client 3 booked a room at 18:00
+Client 4 went to the hotel at 19:00
+Client 4 booked a room at 19:00
+Client 5 went to the hotel at 20:00
+Client 5 booked a room at 20:00
+Client 6 went to the hotel at 22:00
+Client 6 booked a room at 22:00
+Client 7 went to the hotel at 22:00
+Client 7 booked a room at 22:00
+Client 8 went to the hotel at 1:00
+Client 8 booked a room at 1:00
+Client 9 went to the hotel at 3:00
+Client 9 booked a room at 3:00
+Client 10 went to the hotel at 4:00
+Client 10 booked a room at 4:00
+Client 2 vacated the room at 6:00
+Client 9 vacated the room at 6:00
+Client 11 went to the hotel at 6:00
+Client 11 booked a room at 6:00
+Client 4 vacated the room at 7:00
+Client 5 vacated the room at 7:00
+Client 8 vacated the room at 7:00
+Client 3 vacated the room at 8:00
+Client 1 vacated the room at 9:00
+Client 7 vacated the room at 9:00
+Client 6 vacated the room at 9:00
+Client 10 vacated the room at 9:00
+Client 12 went to the hotel at 9:00
+Client 12 booked a room at 9:00
+Client 13 went to the hotel at 11:00
+Client 13 booked a room at 11:00
+Client 14 went to the hotel at 13:00
+Client 14 booked a room at 13:00
+Client 15 went to the hotel at 13:00
+Client 15 booked a room at 13:00
+Client 16 went to the hotel at 13:00
+Client 16 booked a room at 13:00
+Client 17 went to the hotel at 16:00
+Client 17 booked a room at 16:00
+Client 18 went to the hotel at 17:00
+Client 18 booked a room at 17:00
+Client 19 went to the hotel at 19:00
+Client 19 booked a room at 19:00
+Client 20 went to the hotel at 22:00
+Client 20 booked a room at 22:00
+Client 14 vacated the room at 6:00
+Client 15 vacated the room at 6:00
+Client 16 vacated the room at 6:00
+Client 19 vacated the room at 6:00
+Client 11 vacated the room at 7:00
+Client 18 vacated the room at 7:00
+Client 13 vacated the room at 8:00
+Client 17 vacated the room at 8:00
+Client 20 vacated the room at 8:00
+Client 12 vacated the room at 9:00

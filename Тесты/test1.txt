@@ -1,0 +1,152 @@
+rokymiel@MacBook-Pro-Mihail-2 hotel % ./a.out 2 1 50
+Hotel opened at 12:00
+Client 1 went to the hotel at 12:00
+Client 1 booked a room at 12:00
+Client 2 went to the hotel at 13:00
+Client 2 booked a room at 13:00
+Client 3 went to the hotel at 13:00
+Client 3 booked a room at 13:00
+Client 4 went to the hotel at 13:00
+Client 4 booked a room at 13:00
+Client 5 went to the hotel at 14:00
+Client 5 booked a room at 14:00
+Client 6 went to the hotel at 15:00
+Client 6 booked a room at 15:00
+Client 7 went to the hotel at 15:00
+Client 7 booked a room at 15:00
+Client 8 went to the hotel at 15:00
+Client 8 booked a room at 15:00
+Client 9 went to the hotel at 16:00
+Client 9 booked a room at 16:00
+Client 10 went to the hotel at 16:00
+Client 10 booked a room at 16:00
+Client 11 went to the hotel at 17:00
+Client 11 booked a room at 17:00
+Client 12 went to the hotel at 18:00
+Client 12 booked a room at 18:00
+Client 13 went to the hotel at 19:00
+Client 13 booked a room at 19:00
+Client 14 went to the hotel at 20:00
+Client 14 booked a room at 20:00
+Client 15 went to the hotel at 21:00
+Client 15 booked a room at 21:00
+Client 16 went to the hotel at 22:00
+Client 16 booked a room at 22:00
+Client 17 went to the hotel at 22:00
+Client 17 booked a room at 22:00
+Client 18 went to the hotel at 22:00
+Client 18 booked a room at 22:00
+Client 19 went to the hotel at 22:00
+Client 19 booked a room at 22:00
+Client 20 went to the hotel at 22:00
+Client 20 booked a room at 22:00
+Client 21 went to the hotel at 23:00
+Client 21 booked a room at 23:00
+Client 22 went to the hotel at 0:00
+Client 22 booked a room at 0:00
+Client 23 went to the hotel at 0:00
+Client 23 booked a room at 0:00
+Client 24 went to the hotel at 0:00
+Client 24 booked a room at 0:00
+Client 25 went to the hotel at 1:00
+Client 25 booked a room at 1:00
+Client 26 went to the hotel at 1:00
+Client 26 booked a room at 1:00
+Client 27 went to the hotel at 1:00
+Client 27 booked a room at 1:00
+Client 28 went to the hotel at 1:00
+Client 28 booked a room at 1:00
+Client 29 went to the hotel at 1:00
+Client 29 booked a room at 1:00
+Client 30 went to the hotel at 1:00
+Client 31 went to the hotel at 1:00
+Client 30 booked a room at 1:00
+Client 32 went to the hotel at 2:00
+Client 33 went to the hotel at 2:00
+Client 34 went to the hotel at 2:00
+Client 35 went to the hotel at 3:00
+Client 36 went to the hotel at 3:00
+Client 37 went to the hotel at 4:00
+Client 38 went to the hotel at 5:00
+Client 3 vacated the room at 6:00
+Client 2 vacated the room at 6:00
+Client 31 booked a room at 6:00
+Client 4 vacated the room at 6:00
+Client 32 booked a room at 6:00
+Client 33 booked a room at 6:00
+Client 12 vacated the room at 6:00
+Client 34 booked a room at 6:00
+Client 15 vacated the room at 6:00
+Client 36 booked a room at 6:00
+Client 39 went to the hotel at 6:00
+Client 40 went to the hotel at 6:00
+Client 1 vacated the room at 7:00
+Client 35 booked a room at 7:00
+Client 7 vacated the room at 7:00
+Client 8 vacated the room at 7:00
+Client 6 vacated the room at 7:00
+Client 37 booked a room at 7:00
+Client 38 booked a room at 7:00
+Client 39 booked a room at 7:00
+Client 14 vacated the room at 7:00
+Client 40 booked a room at 7:00
+Client 21 vacated the room at 7:00
+Client 41 went to the hotel at 7:00
+Client 41 booked a room at 7:00
+Client 42 went to the hotel at 7:00
+Client 43 went to the hotel at 7:00
+Client 44 went to the hotel at 7:00
+Client 5 vacated the room at 8:00
+Client 42 booked a room at 8:00
+Client 11 vacated the room at 8:00
+Client 43 booked a room at 8:00
+Client 16 vacated the room at 8:00
+Client 17 vacated the room at 8:00
+Client 44 booked a room at 8:00
+Client 18 vacated the room at 8:00
+Client 19 vacated the room at 8:00
+Client 20 vacated the room at 8:00
+Client 26 vacated the room at 8:00
+Client 25 vacated the room at 8:00
+Client 27 vacated the room at 8:00
+Client 29 vacated the room at 8:00
+Client 28 vacated the room at 8:00
+Client 45 went to the hotel at 8:00
+Client 45 booked a room at 8:00
+Client 30 vacated the room at 8:00
+Client 9 vacated the room at 9:00
+Client 10 vacated the room at 9:00
+Client 13 vacated the room at 9:00
+Client 22 vacated the room at 9:00
+Client 23 vacated the room at 9:00
+Client 24 vacated the room at 9:00
+Client 46 went to the hotel at 9:00
+Client 46 booked a room at 9:00
+Client 47 went to the hotel at 10:00
+Client 47 booked a room at 10:00
+Client 48 went to the hotel at 11:00
+Client 48 booked a room at 11:00
+Client 49 went to the hotel at 12:00
+Client 49 booked a room at 12:00
+Client 50 went to the hotel at 13:00
+Client 50 booked a room at 13:00
+Client 33 vacated the room at 6:00
+Client 32 vacated the room at 6:00
+Client 38 vacated the room at 6:00
+Client 34 vacated the room at 6:00
+Client 45 vacated the room at 6:00
+Client 50 vacated the room at 6:00
+Client 42 vacated the room at 7:00
+Client 43 vacated the room at 7:00
+Client 44 vacated the room at 7:00
+Client 41 vacated the room at 7:00
+Client 47 vacated the room at 7:00
+Client 31 vacated the room at 8:00
+Client 37 vacated the room at 8:00
+Client 46 vacated the room at 8:00
+Client 49 vacated the room at 8:00
+Client 35 vacated the room at 9:00
+Client 39 vacated the room at 9:00
+Client 40 vacated the room at 9:00
+Client 36 vacated the room at 9:00
+Client 48 vacated the room at 9:00
